@@ -18,4 +18,15 @@ The back end, powered by Python, handles the core functionalities. It leverages 
 
 
 
+## Download
+
+Clone the project
+
+```bash
+  git clone https://github.com/sohamkhair31/Java-Python-Text-To-Speech
+```
+
+
+
+
 
