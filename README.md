@@ -1,5 +1,5 @@
 
-# TEXT-SPEECH CONVERTER
+# TEXT-SPEECH CONVERTER [WORKING ON IT]
 This application is a versatile Text-Speech-Text Converter built using Java Swing for the graphical user interface and Python for the backend logic. The application allows users to convert text into spoken words and, conversely, spoken words back into text.
 
 The front end, designed with Java Swing, offers a clean and intuitive interface, making it easy for users to type or paste text and trigger the conversion process. ⌨️
