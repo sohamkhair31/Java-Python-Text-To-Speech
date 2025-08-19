@@ -7,6 +7,15 @@ The front end, designed with Java Swing, offers a clean and intuitive interface,
 The back end, powered by Python, handles the core functionalities. It leverages powerful text-to-speech (TTS) libraries to synthesize natural-sounding speech from the input text and utilizes robust speech-to-text (STT) engines to accurately transcribe spoken words.  This dual-language approach allows the application to combine the platform independence and rich GUI components of Java with the extensive libraries and simplicity of Python for complex tasks like natural language processing. The result is a highly functional and user-friendly tool for various applications, including accessibility aids, transcription services, and language learning. 🗣️
 
 
+## Tech Stack
+
+**Front End:** Java Swing
+
+**Back End:** Python
+
+**Libraries:** Py4j,Speech_Recognition,Pyaudio And Other 
+
+
 
 
 
